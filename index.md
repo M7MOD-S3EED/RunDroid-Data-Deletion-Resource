@@ -2,55 +2,44 @@
 layout: default
 ---
 
-# Privacy Policy for Balance Ball:
+# Data Management in RunDroid
+This page is designed to help you, our valued RunDroid users, understand and exercise your rights over the data collected by our game. We believe in transparency and giving you control over your data. Here, you’ll find detailed instructions on how to delete or manage the data we collect.
 
-### This page is to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use Balance Ball game developed by Alien Eye.
+# Data controlled by Alien Eye:
+## 1-Analytics Data (Data collected Using Unity UGS Analytics):
+Analytics data is information collected about your use of the RunDroid game, such as gameplay duration, levels completed, and in-game purchases. This data is collected using Unity’s Universal GameDev Services (UGS) Analytics.
+When you install the game, Unity Analytics generates a random user ID for analytics data collection.
+This ID is separate from your player account, so deleting your player account does not delete the analytics data collected.
 
+### To delete analytics data:
 
-# Information collected and used by Alien Eye:
+- Open RunDroid
+- Navigate to Options > Account & Privacy > Data & Privacy
+- Select **Delete Analytics Collected Data**
 
-### We (Alien Eye) do not require users to provide Personal information.
-
-
-# Data collected and used by third-party service providers:
-
-### We may employ third-party companies to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services, or to assist us in analyzing how our Service is used.
-
-
-## 1. Google AdMob:
-### AdMob is a mobile advertising platform.
-
-### In order to show you ads that you might find interesting and/or relevant ("Targeted Ads"), Ad mob collects and uses your Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, read more on AdMob policy from this **[link](https://policies.google.com/privacy?hl=en)**.
+Deleting analytics data will automatically change your Analytics Data Collection Consent, stopping any further data collection.
+You can change the Analytics Data Collection Consent at any time by navigating to **Options > Account & Privacy > Data & Privacy > Press Change Analytics Data Collection Consent**.
 
 
-## 2. Unity Analytics:
-### Unity Analytics, part of the Unity Gaming Services platform, provides an end-to-end data and analysis solution.
+### 2-Player account & associated Data:
+To delete your RunDroid player account and all associated data:
 
-### Unity Analytics collects and uses certain personally identifiable information, including but not limited to:
-### approximate location, personal identifiers,  crash logs, app diagnostics, other app performance data.
+- Open RunDroid
+- Navigate to Options > Account & Privacy > Player Account
+- Select **Delete Player Account**
+  
+**This will delete the logged-in player account, all its associated data, and player progress from our records. Please note that this action is permanent and irreversible.**
+**We encourage you to delete your RunDroid player account using the in-game method as it’s simpler and takes effect immediately.**
 
-### Read more on Unity Analytics policy from this **[link](https://unity3d.com/legal/privacy-policy)**.
+Alternatively, you can send us a RunDroid Player Account Deletion request using this [form](). Your submitted request will be addressed by us as early as possible, within 30 days.
 
+# Data not Managed by Alien Eye:
+## 1-Google Play Games Services:
+Users can delete their account and all associated games data collected by Google through their [Play Games profile](https://play.google.com/games/profile) or [Google MyAccount](https://myaccount.google.com/)
+If Google collects Play Games Services data for an individual game, users can delete the data through their [Play Games profile](https://play.google.com/games/profile)
 
-## 3. Unity IAP:
-### Unity IAP (In-App Purchasing), part of the Unity Gaming Services platform, Allows users to buy items in-game.
-
-### Unity IAP collects and uses certain personally identifiable information, including but not limited to:
-### purchase history.
-
-### In order to make in-app purchases, a user must use third-party checkout options that we have integrated with our services to finalize and pay for their order. The third-party operator’s privacy policy and security practices will apply to this process.
-### We encourage you to read that privacy statement before providing your information.
-
-### Read more on Unity IAP policy from this **[link](https://unity3d.com/legal/privacy-policy)**.
-
-### Read more on Google Play's billing system policy from **[link](https://support.google.com/googleplay/android-developer/answer/10281818?hl=en)**.
-
-
-# Changes To This Privacy Policy:
-
-### We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-### You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+## 2-Google AdMob (Mobile Ads SDK):
+The Advertising ID can be reset or deleted by users using ad ID controls in the Android settings menu. For more information, visit the [Advertising ID help website](https://support.google.com/googleplay/android-developer/answer/6048248#zippy=%2Creset-your-devices-advertising-id%2Cdelete-your-devices-advertising-id)
 
 
 
