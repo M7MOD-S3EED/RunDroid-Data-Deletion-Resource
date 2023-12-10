@@ -12,10 +12,9 @@ When you install the game, Unity Analytics generates a random user ID for analyt
 This ID is separate from your player account, so deleting your player account does not delete the analytics data collected.
 
 ### To delete analytics data:
-
-1-Open RunDroid
-2-Navigate to Options > Account & Privacy > Data & Privacy
-3-Select **Delete Analytics Collected Data**
+ 1-Open RunDroid
+ 2-Navigate to Options > Account & Privacy > Data & Privacy
+ 3-Select **Delete Analytics Collected Data**
 
 Deleting analytics data will automatically change your Analytics Data Collection Consent, stopping any further data collection.
 You can change the Analytics Data Collection Consent at any time by navigating to **Options > Account & Privacy > Data & Privacy > Press Change Analytics Data Collection Consent**.
@@ -23,10 +22,9 @@ You can change the Analytics Data Collection Consent at any time by navigating t
 
 ### 2-Player account & associated Data:
 To delete your RunDroid player account and all associated data:
-
-1-Open RunDroid
-2-Navigate to Options > Account & Privacy > Player Account
-3-Select **Delete Player Account**
+ 1-Open RunDroid.
+ 2-Navigate to Options > Account & Privacy > Player Account.
+ 3-Select **Delete Player Account**.
   
 **This will delete the logged-in player account, all its associated data, and player progress from our records. Please note that this action is permanent and irreversible.**
 **We encourage you to delete your RunDroid player account using the in-game method as it’s simpler and takes effect immediately.**
