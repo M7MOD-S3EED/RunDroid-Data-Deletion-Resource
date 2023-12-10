@@ -22,9 +22,9 @@ You can change the Analytics Data Collection Consent at any time by navigating t
 
 ### 2-Player account & associated Data:
 To delete your RunDroid player account and all associated data:
- 1-Open RunDroid.
- 2-Navigate to Options > Account & Privacy > Player Account.
- 3-Select **Delete Player Account**.
+ 1-Open RunDroid
+ 2-Navigate to Options > Account & Privacy > Player Account
+ 3-Select **Delete Player Account**
   
 **This will delete the logged-in player account, all its associated data, and player progress from our records. Please note that this action is permanent and irreversible.**
 **We encourage you to delete your RunDroid player account using the in-game method as it’s simpler and takes effect immediately.**
