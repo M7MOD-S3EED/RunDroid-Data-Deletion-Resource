@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Management in RunDroid
+# Data Deletion Resource for RunDroid
 This page is designed to help you, our valued RunDroid users, understand and exercise your rights over the data collected by our game. We believe in transparency and giving you control over your data. Here, you’ll find detailed instructions on how to delete or manage the data we collect.
 
 # Data controlled by Alien Eye:
