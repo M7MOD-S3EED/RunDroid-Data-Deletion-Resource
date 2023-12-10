@@ -23,7 +23,7 @@ You can change the Analytics Data Collection Consent at any time by navigating t
 
 ### 2-Player account & associated Data:
 To delete your RunDroid player account and all associated data:
-1. -Open RunDroid.
+1. Open RunDroid.
 2. Navigate to Options > Account & Privacy > Player Account.
 3. Select **Delete Player Account**.
   
@@ -35,6 +35,7 @@ Alternatively, you can send us a RunDroid Player Account Deletion request using 
 # Data not Managed by Alien Eye:
 ## 1-Google Play Games Services:
 Users can delete their account and all associated games data collected by Google through their [Play Games profile](https://play.google.com/games/profile) or [Google MyAccount.](https://myaccount.google.com/)
+
 If Google collects Play Games Services data for an individual game, users can delete the data through their [Play Games profile.](https://play.google.com/games/profile)
 
 ## 2-Google AdMob (Mobile Ads SDK):
