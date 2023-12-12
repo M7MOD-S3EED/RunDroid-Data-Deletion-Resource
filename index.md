@@ -6,7 +6,7 @@ layout: default
 This page is designed to help you, our valued RunDroid users, understand and exercise your rights over the data collected by our game. We believe in transparency and giving you control over your data. Here, you’ll find detailed instructions on how to delete or manage the data we collect.
 
 # Data controlled by Alien Eye:
-## 1.Analytics Data (Data collected Using Unity UGS Analytics):
+## 1. Analytics Data (Data collected Using Unity UGS Analytics):
 Analytics data is information collected about your use of the RunDroid game, such as gameplay duration, levels completed, and in-game purchases.
 This data is collected using Unity’s UGS Analytics.
 When you install the game, Unity Analytics generates a random user ID for analytics data collection.
@@ -30,7 +30,7 @@ To delete your RunDroid player account and all associated data:
 **This will delete the logged-in player account, all its associated data, and player progress from our records. Please note that this action is permanent and irreversible.**
 **We encourage you to delete your RunDroid player account using the in-game method as it’s simpler and takes effect immediately.**
 
-Alternatively, you can send us a RunDroid Player Account Deletion request using this [form](). Your submitted request will be addressed by us as early as possible, within 30 days.
+Alternatively, you can send us a RunDroid Player Account Deletion request using this [form](https://forms.gle/p47f3of4epRdAgQK6). Your submitted request will be addressed by us as early as possible, within 30 days.
 
 # Data not Managed by Alien Eye:
 ## 1-Google Play Games Services:
