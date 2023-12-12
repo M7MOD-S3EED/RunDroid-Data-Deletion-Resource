@@ -30,7 +30,7 @@ To delete your RunDroid player account and all associated data:
 **This will delete the logged-in player account, all its associated data, and player progress from our records. Please note that this action is permanent and irreversible.**
 **We encourage you to delete your RunDroid player account using the in-game method as it’s simpler and takes effect immediately.**
 
-Alternatively, you can send us a RunDroid Player Account Deletion request using this [form](https://forms.gle/p47f3of4epRdAgQK6). Your submitted request will be addressed by us as early as possible, within 30 days.
+Alternatively, you can send us a RunDroid Player Account Deletion request using this [form](https://docs.google.com/forms/d/e/1FAIpQLSehvgIwG_jp7271qBsDBL6BDsxB-zNSnFnyV5R8h3HqqXIDPA/viewform?usp=sf_link). Your submitted request will be addressed by us as early as possible, within 30 days.
 
 # Data not Managed by Alien Eye:
 ## 1-Google Play Games Services:
