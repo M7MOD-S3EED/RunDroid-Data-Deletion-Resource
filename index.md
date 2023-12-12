@@ -9,7 +9,7 @@ This page is designed to help you, our valued RunDroid users, understand and exe
 ## 1. Analytics Data (Data collected Using Unity UGS Analytics):
 Analytics data is information collected about your use of the RunDroid game, such as gameplay duration, levels completed, and in-game purchases.
 This data is collected using Unity’s UGS Analytics.
-When you install the game, Unity Analytics generates a random user ID for analytics data collection.
+When you install the game, Unity Analytics generates a user ID for analytics data collection.
 This ID is separate from your player account, so deleting your player account does not delete the analytics data collected.
 
 ### To delete analytics data:
