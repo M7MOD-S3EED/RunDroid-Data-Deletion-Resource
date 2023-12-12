@@ -21,7 +21,7 @@ Deleting analytics data will automatically change your Analytics Data Collection
 You can change the Analytics Data Collection Consent at any time by navigating to **Options > Account & Privacy > Data & Privacy > Press Change Analytics Data Collection Consent**.
 
 
-## 2-Player account & associated Data:
+## 2. Player account & associated Data:
 To delete your RunDroid player account and all associated data:
 1. Open RunDroid.
 2. Navigate to Options > Account & Privacy > Player Account.
